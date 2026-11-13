@@ -85,4 +85,8 @@ Project Documentation
 The complete project report is available in this repository.
 
 
+## Project Documentation
+
+[View Full Project Report](Slip_Ring_Induction_Motor_Report_Without_College_Name.pdf)
+
 
